@@ -116,6 +116,7 @@ label {
 }
 
 input[type="text"],
+input[type="password"],
 input[type="number"] {
   border: 1px solid var(--border-secondary-color);
   border-radius: 5px;
